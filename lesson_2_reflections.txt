@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+- Git creates a hidden folder where it tracks all the changes to files in the
+  repository.
+  This is needed to tell Git that the folder is a repository and to start
+  keeping track of files. I think.
+
+
