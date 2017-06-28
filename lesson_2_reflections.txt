@@ -13,4 +13,37 @@ repository? What value do you think it offers?
 
 
 
+How can you use the staging ares to make sure you have one commit per logical
+change?
+- you can reset the changes in the staging area to clear changes that are not
+  logical? eh?
 
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+- experimenting with new features,
+  different versions
+  managing large changes
+
+
+
+How do the diagrams help you visualize the branch structure?
+- makes it much eaiser to follow along and keep track of where we are in the
+  commit history. It can get confusing without the diagrams.
+
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+- Two branches are combined into a single one.
+  It is represented like that because its most accurate, want to show diverging
+  parts of code being merged into the main branch.
+
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+- pros: just so much easier when its automatic
+  cons: so hard to figure out what needs to stay or be deleted, have to remove
+  all of gits. >>>> and ||||| signs
