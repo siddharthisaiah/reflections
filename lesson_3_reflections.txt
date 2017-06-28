@@ -2,3 +2,10 @@
 -  When you need to share code with others, working in a team
    if you dont always have access to the same machine
    backup
+
+
+
+2. Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+- maybe you dont want the most recent changes. maybe you want to try out adding
+  some new/different features.
