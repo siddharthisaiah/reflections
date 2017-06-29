@@ -9,3 +9,12 @@
 automatically stay up-to-date with your remote repository?
 - maybe you dont want the most recent changes. maybe you want to try out adding
   some new/different features.
+
+
+
+3. Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+- A fork is cloning someone elses repository.
+  cloning is making a copy of a repository.
+  branches are like brnches of a tree, essentially the same repository, just a
+  little different code or versions of code.
