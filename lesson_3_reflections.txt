@@ -18,3 +18,9 @@ use one instead of another?
   cloning is making a copy of a repository.
   branches are like brnches of a tree, essentially the same repository, just a
   little different code or versions of code.
+
+
+
+4. What is the benefit of having a copy of the last known state of the remote
+stored locally?
+- helps keep in sync with the remote? makes merges easier? idk
