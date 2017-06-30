@@ -33,3 +33,10 @@ and what would be harder?
   control systems.
   Hard mode - everything on local filesystem, keep track of changes manually,
   share files in zips etc etc
+
+
+
+6. When would you want to make changes in a seperate branch rather than
+directly in master? What benefits does each approach have?
+- when trying out a new change
+  adding a specific feature
