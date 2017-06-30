@@ -24,3 +24,12 @@ use one instead of another?
 4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
 - helps keep in sync with the remote? makes merges easier? idk
+
+
+
+5. How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+- Easy mode - SVN, Mercurial, Savannah - there are many alternative version
+  control systems.
+  Hard mode - everything on local filesystem, keep track of changes manually,
+  share files in zips etc etc
